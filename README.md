@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amir Hossein</h1>
 <h3 align="center">A passionate full stack developer from Iran</h3>
 
+<img align="right" width="400" src="1313.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir13h&label=Profile%20views&color=0e75b6&style=flat" alt="amir13h" /> </p>
 
 - 🌱 I’m currently learning **full stack development and networking.**
