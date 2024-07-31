@@ -25,7 +25,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=hosseincharchianh&theme=darcula&show_icons=true&hide_border=true&count_private=true&border_radius=10" alt="hosseincharchianh's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseincharchianh&theme=darcula&hide_border=true&border_radius=10" alt="hosseincharchianh's GitHub Stats" />
-<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseincharchianh&theme=darcula&show_icons=true&hide_border=true&layout=compact&border_radius=10" alt="hosseincharchianh's GitHub Stats" />
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=amir13h&theme=darcula&show_icons=true&hide_border=true&count_private=true&border_radius=10" alt="Amir Hossein's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amir13h&theme=darcula&hide_border=true&border_radius=10" alt="Amir Hossein's GitHub Stats" />
+<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir13h&theme=darcula&show_icons=true&hide_border=true&layout=compact&border_radius=10" alt="Amir Hossein's GitHub Stats" />
 </div>
